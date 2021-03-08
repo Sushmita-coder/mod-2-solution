@@ -1,9 +1,6 @@
-# mod-2-solution
-<html>
-<head>
-<body>
-< a href="css.styles">
-< a href="index.html">
-</body>
-</head>
-<head>
+
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://sushmita-coder.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
